@@ -51,8 +51,8 @@ Assignment Context
 
 This repository serves as a practical demonstration of the integrated problem-solving process, encompassing the following key steps as defined in the assignment:
 
-1. Analysis and Problem Definition: Clearly outlining the problem statement, requirements, and initial assumptions.
+1. Analysis and Problem Definition: outlining the problem statement, requirements, and initial assumptions.
 2. Data Organisation and Description: Detailing all necessary inputs, outputs, and operational parameters.
 3. Algorithm Design (Flowchart): Visualising the system's logic and flow using a comprehensive flowchart.
 4. Solution Implementation (Word Coding): Translating the designed logic into a series of clear, modular tasks using plain English.
-5. Testing and Refinement: Rigorously testing the solution with sample scenarios and suggesting improvements for enhanced reliability and efficiency.
+5. Testing and Refinement: testing the solution with sample scenarios and suggesting improvements for enhanced reliability and efficiency.
