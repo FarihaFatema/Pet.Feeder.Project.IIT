@@ -22,7 +22,7 @@ Core Assumptions
 
 The system's design and proposed solution are based on several key assumptions to simplify development and align with the low-cost requirement:
 
-- Exclusive Dry Kibble Dispensing: The system is engineered solely for commercially available dry kibble, simplifying the dispensing mechanism and storage requirements.
+- Only Dry Kibble Dispensing: The system is engineered solely for commercially available dry kibble, simplifying the dispensing mechanism and storage requirements.
 - Consistent Electrical Power Supply: The system assumes continuous operation via a standard electrical wall outlet, eliminating the need for complex and costly battery or solar solutions.
 - Low-Cost Sensor Utilisation: Monitoring relies exclusively on readily available, low-cost sensors, specifically a weight sensor for the food bowl and a simple infrared level sensor for the food storage tank.
 - Timely Staff Response: It is assumed that animal shelter staff will respond promptly to system-generated alerts. The system identifies issues but does not possess direct animal health diagnostic capabilities; human intervention is indispensable for resolving critical feeding issues or addressing animal well-being concerns.
